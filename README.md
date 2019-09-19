@@ -64,13 +64,13 @@ this.name = "Walter"
 const name = userData.getName()
 
 ```
-[ ] John 
+- [ ] John 
 
-[ ] Luke
+- [ ] Luke
 
-[ ] James
+- [ ] James
 
-[ ] Walter
+- [ ] Walter
 
 
 4. Qual o retorno da seguinte função 
@@ -97,13 +97,13 @@ event.getTitle()
 
 ```
 
-[ ] The event 04/02/2019 will take place on Event Test
+- [ ] The event 04/02/2019 will take place on Event Test
 
-[ ] The event undefined will take place on undefined
+- [ ] The event undefined will take place on undefined
 
-[ ] Uncaught TypeError
+- [ ] Uncaught TypeError
 
-[ ] The event null will take place on null
+- [ ] The event null will take place on null
 
 
 
@@ -175,22 +175,22 @@ const object = Object.create()
 
 20. Em um ambiente do browser. Qual o valor do this utilizando "use-strict";
 
-[ ] window
+- [ ] window
 
-[ ] global
+- [ ] global
 
-[ ] undefined
+- [ ] undefined
 
-[ ] null
+- [ ] null
 
 ---
 
 21. Quando eu posso utilizar o "Use-strict" no meu código ?
 
-[ ] No ínicio do meu código
+- [ ] No ínicio do meu código
 
-[ ] No inicio do block if
+- [ ] No inicio do block if
 
-[ ] No inicio de um loop
+- [ ] No inicio de um loop
 
-[ ] no inicio de uma função 
+- [ ] no inicio de uma função 
