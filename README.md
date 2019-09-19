@@ -27,7 +27,6 @@ Será avaliado:
 
 # Perguntas Mestre dos códigos Javascript
 
----
 
 1. Explique com suas palavras a diferença entre a utilização de var, const e let?
 
