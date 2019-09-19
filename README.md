@@ -33,15 +33,15 @@ Será avaliado:
 
 2. Assinale a(s) diferença(s) entre Funções normais e Arrow Functions?
 
-[ ] Funções normais não guardam escopo
+- [ ] Funções normais não guardam escopo
 
-[ ] Funções normais guardam escopo
+- [ ] Funções normais guardam escopo
 
-[ ] Arrow function são mais rápidas
+- [ ] Arrow function são mais rápidas
 
-[ ] Arrow function podem ser instanciadas
+- [ ] Arrow function podem ser instanciadas
 
-[ ] Arrow function não guardam escopo 
+- [ ] Arrow function não guardam escopo 
 
 ---
 
