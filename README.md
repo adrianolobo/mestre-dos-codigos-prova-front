@@ -146,8 +146,7 @@ const object = Object.create()
 
 ---
 
-15 - LocalStorage / SessionStorage / Cookies 
-Escreva um código para inserir e resgatar items do LocalStorage/SessionStorage
+15 - Escreva um código para inserir e resgatar items do LocalStorage/SessionStorage
 
 ---
 
