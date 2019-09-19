@@ -27,10 +27,11 @@ Será avaliado:
 
 # Perguntas Mestre dos códigos Javascript
 
-1 Explique com suas palavras a diferença entre a utilização de var, const e let?
+1. Explique com suas palavras a diferença entre a utilização de var, const e let?
 
 --- 
-2 Assinale a(s) diferença(s) entre Funções normais e Arrow Functions?
+
+2. Assinale a(s) diferença(s) entre Funções normais e Arrow Functions?
 
 [ ] Funções normais não guardam escopo
 
@@ -44,7 +45,8 @@ Será avaliado:
 
 ---
 
-3 qual o valor da variavél name após a execução da função?
+3. qual o valor da variavél name após a execução da função?
+
 ```javascript
  content = {
   name: "John",
@@ -71,7 +73,8 @@ const name = userData.getName()
 [ ] Walter
 
 
-3 Qual o retorno da seguinte função 
+4. Qual o retorno da seguinte função 
+
 ```javascript
 function Event(name, day) {
   this.date = day
@@ -93,6 +96,7 @@ Event.prototype.getTitle = function() {
 event.getTitle()
 
 ```
+
 [ ] The event 04/02/2019 will take place on Event Test
 
 [ ] The event undefined will take place on undefined
@@ -103,67 +107,73 @@ event.getTitle()
 
 
 
-4 Quais são as formas de selecionar um elemento na DOM e qual a diferença entre elas? 
-
- --- 
-5 Como inserir um evento em determinado elemento? 
-
- ---
-6 Como remover um evento em determinado elemento?
-
----
-7 Descreva com suas palavras o que é event bubbling?
+5. Quais são as formas de selecionar um elemento na DOM e qual a diferença entre elas? 
 
 --- 
-8 Descreva qual a diferença nos métodos de declaração de objetos? 
+
+6. Como inserir um evento em determinado elemento? 
+
+---
+
+7. Como remover um evento em determinado elemento?
+
+---
+
+8. Descreva com suas palavras o que é event bubbling?
+
+--- 
+
+9. Descreva qual a diferença nos métodos de declaração de objetos? 
+
 ```javascript
 const object = {}
 const object = new Object()
 const object = Object.create()
 ```
---- 
- 9 Qual a diferença no uso de XMLHttpRequest e Fetch ? E qual devemos usar atualmente ?
 
 --- 
 
-10 O que são Promises ? Como podemos declarar uma promise em javascript ? 
+10. Qual a diferença no uso de XMLHttpRequest e Fetch ? E qual devemos usar atualmente ?
 
 --- 
 
-11 - Liste 3 formas de iterar um Array em javascript e explique a diferença entre cada um deles? 
+11. O que são Promises ? Como podemos declarar uma promise em javascript ? 
+
+--- 
+
+12. Liste 3 formas de iterar um Array em javascript e explique a diferença entre cada um deles? 
 
 ---
 
-12 - Quando utilizar map, reduce ou filter ? 
+13. Quando utilizar map, reduce ou filter ? 
 
 ---
 
-13 - Qual o método do Array é mais indicado para remover elementos ? 
+14. Qual o método do Array é mais indicado para remover elementos ? 
 
 ---
 
-14 - Cite 4 métodos presentes na API de strings do Javascript e explique cada um deles; 
+15. Cite 4 métodos presentes na API de strings do Javascript e explique cada um deles; 
 
 ---
 
-15 - Escreva um código para inserir e resgatar items do LocalStorage/SessionStorage
+16. Escreva um código para inserir e resgatar items do LocalStorage/SessionStorage
 
 ---
 
-16 - Qual a melhor forma para definir um cookie utilizando javascript ?
+17. Qual a melhor forma para definir um cookie utilizando javascript ?
 
 ---
 
-17 - Loops 
-Quais os tipos de Loops existentes em javascript ?
+18. Quais os tipos de Loops existentes em javascript ?
 
 ---
 
-18 - Descreva com suas palavras o que é hoisting ?
+19. Descreva com suas palavras o que é hoisting ?
 
 ---
 
-19 - Em um ambiente do browser. Qual o valor do this utilizando "use-strict";
+20. Em um ambiente do browser. Qual o valor do this utilizando "use-strict";
 
 [ ] window
 
@@ -173,7 +183,9 @@ Quais os tipos de Loops existentes em javascript ?
 
 [ ] null
 
-20 - Quando eu posso utilizar o "Use-strict" no meu código ?
+---
+
+21. Quando eu posso utilizar o "Use-strict" no meu código ?
 
 [ ] No ínicio do meu código
 
