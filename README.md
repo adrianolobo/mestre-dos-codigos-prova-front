@@ -24,7 +24,9 @@ Será avaliado:
 -   Responsividade da página    
 -   Apenas será avaliado a primeira página da aplicação (home)
 
+
 # Perguntas Mestre dos códigos Javascript
+
 1 Explique com suas palavras a diferença entre a utilização de var, const e let?
 
 --- 
@@ -56,9 +58,13 @@ const name = userData.getName()
 
 ```
 [] John 
+
 [] Luke
-[] Luke
+
+[] James
+
 [] Walter
+
 
 3 Qual o retorno da seguinte função 
 ```javascript
@@ -82,10 +88,14 @@ Event.prototype.getTitle = function() {
 event.getTitle()
 
 ```
-[] The event 04/02/2019 will take place on Event Test 
+[] The event 04/02/2019 will take place on Event Test
+
 [] The event undefined will take place on undefined
+
 [] Uncaught TypeError
+
 [] The event null will take place on null
+
 
 
 4 Quais são as formas de selecionar um elemento na DOM e qual a diferença entre elas? 
@@ -152,8 +162,11 @@ Quais os tipos de Loops existentes em javascript ?
 19 - Em um ambiente do browser. Qual o valor do this utilizando "use-strict";
 
 [] window
+
 [] global
+
 [] undefined
+
 [] null
 
 20 - Quando eu posso utilizar o "Use-strict" no meu código ?
@@ -161,5 +174,7 @@ Quais os tipos de Loops existentes em javascript ?
 [] No ínicio do meu código
 
 [] No inicio do block if
+
 [] No inicio de um loop
+
 [] no inicio de uma função 
