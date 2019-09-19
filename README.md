@@ -27,6 +27,8 @@ Será avaliado:
 
 # Perguntas Mestre dos códigos Javascript
 
+---
+
 1. Explique com suas palavras a diferença entre a utilização de var, const e let?
 
 --- 
@@ -72,6 +74,7 @@ const name = userData.getName()
 
 - [ ] Walter
 
+---
 
 4. Qual o retorno da seguinte função 
 
@@ -105,7 +108,7 @@ event.getTitle()
 
 - [ ] The event null will take place on null
 
-
+---
 
 5. Quais são as formas de selecionar um elemento na DOM e qual a diferença entre elas? 
 
