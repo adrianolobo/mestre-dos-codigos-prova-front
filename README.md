@@ -30,12 +30,13 @@ Será avaliado:
 1 Explique com suas palavras a diferença entre a utilização de var, const e let?
 
 --- 
-2 Assinale a(s) diferença(s) entre Funções normais e Arrow Functions? 
-    [] Funções normais não guardam escopo 
-    [] Funções normais guardam escopo
-    [] Arrow function são mais rápidas
-    [] Arrow function podem ser instanciadas
-    [] Arrow function não guardam escopo 
+2 Assinale a(s) diferença(s) entre Funções normais e Arrow Functions?
+
+[ ] Funções normais não guardam escopo 
+[ ] Funções normais guardam escopo
+[ ] Arrow function são mais rápidas
+[ ] Arrow function podem ser instanciadas
+[ ] Arrow function não guardam escopo 
 
 ---
 
@@ -57,13 +58,13 @@ this.name = "Walter"
 const name = userData.getName()
 
 ```
-[] John 
+[ ] John 
 
-[] Luke
+[ ] Luke
 
-[] James
+[ ] James
 
-[] Walter
+[ ] Walter
 
 
 3 Qual o retorno da seguinte função 
@@ -88,13 +89,13 @@ Event.prototype.getTitle = function() {
 event.getTitle()
 
 ```
-[] The event 04/02/2019 will take place on Event Test
+[ ] The event 04/02/2019 will take place on Event Test
 
-[] The event undefined will take place on undefined
+[ ] The event undefined will take place on undefined
 
-[] Uncaught TypeError
+[ ] Uncaught TypeError
 
-[] The event null will take place on null
+[ ] The event null will take place on null
 
 
 
