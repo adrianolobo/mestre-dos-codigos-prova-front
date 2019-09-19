@@ -12,7 +12,8 @@ Requisitos:
 -   Footer contendo informações do desenvolvedor
 
 ![Netflix](imgs/netflix.png)
-![Netflix](imgs/yt-music.png)
+
+![Youtube Music](imgs/yt-music.png)
 
 Será avaliado:
 
@@ -157,7 +158,8 @@ Quais os tipos de Loops existentes em javascript ?
 
 20 - Quando eu posso utilizar o "Use-strict" no meu código ?
 
-[] No ínicio do meu código 
-[] No inicio do block if 
-[] No inicio de um loop 
+[] No ínicio do meu código
+
+[] No inicio do block if
+[] No inicio de um loop
 [] no inicio de uma função 
