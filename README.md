@@ -165,20 +165,20 @@ Quais os tipos de Loops existentes em javascript ?
 
 19 - Em um ambiente do browser. Qual o valor do this utilizando "use-strict";
 
-[] window
+[ ] window
 
-[] global
+[ ] global
 
-[] undefined
+[ ] undefined
 
-[] null
+[ ] null
 
 20 - Quando eu posso utilizar o "Use-strict" no meu código ?
 
-[] No ínicio do meu código
+[ ] No ínicio do meu código
 
-[] No inicio do block if
+[ ] No inicio do block if
 
-[] No inicio de um loop
+[ ] No inicio de um loop
 
-[] no inicio de uma função 
+[ ] no inicio de uma função 
